@@ -1,0 +1,1 @@
+Tạo cây AVL từ việc thêm lần lượt các phần tử (đọc từ file input.txt, đọc các phần tử từ trái qua phải, cách nhau dấu khoảng trắng). Sau khi hoàn thành cây AVL, tiến hành duyệt cây AVL theo 3 cách (NLR, LNR, LRN), kết quả sẽ được ghi vào file .txt (output.txt)
